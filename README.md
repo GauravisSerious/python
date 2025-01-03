@@ -1,2 +1,2 @@
 # python
-Simple python projects for learning 
+Simple python mini projects to understand basic concepts
