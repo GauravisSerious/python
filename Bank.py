@@ -1,3 +1,9 @@
+#an simple bank project to understand OOps concept and Class inheritance!
+
+
+
+
+
 class Account:
     def __init__(self,name,balance,min_balance):
         self.name=name
