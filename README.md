@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gaurav Jagtap </h1>
+<h1 align="center"> Hi 👋, I'm Gaurav Jagtap </h1>
 <h3 align="center">A passionate AI and ML developer from India</h3>
 
 - 🔭 I’m currently working on **Image Generation using Stable Diffusion**
