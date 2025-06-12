@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Image Generation using Stable Diffusion**
 
-- 💬 Ask me about **Data Visualization,Training**
+- 💬 Ask me about **Data Visualization,Training,DSA!**
 
 - 📫 How to reach me **Gauravjagtap0007@gmail.com**
 
